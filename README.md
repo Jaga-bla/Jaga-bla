@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jagoda.
-- 👀 I’m interested in web development.
+- 👀 I’m interested in genetics, bioinformatics and web development.
 - 🌱 I’m currently learning python basics, django and relational databases.
 - 📫 How to reach me? You can email me on adres: jagabla8@gmail.com
 
