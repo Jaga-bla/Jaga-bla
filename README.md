@@ -1,18 +1,30 @@
-👋 Hi, I’m Jagoda.
+## Hi, I'm Jagoda! 👋
 
-👀 I’m interested in genetics, bioinformatics and web development. 
-I am a novice web developer, eager to expand my knowledge. For a year
-I have been learning a python programming language. Moreover, I started
-a postgraduate studies, which systematized my knowledge and expanded
-it in the field of good programming practices and databases. Taking up
-a job as a backend developer would be a great opportunity and allow me to
-fully focus on learning software engineering.
+Welcome to my GitHub profile! I'm passionate about genetics, bioinformatics, and web development. As a novice web developer, I'm eager to expand my knowledge and skills in these fields. Over the past year, I've been dedicated to learning Python programming, which serves as a solid foundation for both bioinformatics and web development.
+
+To further enhance my expertise, I've recently embarked on postgraduate studies. These studies have not only systematized my knowledge but also provided me with a deeper understanding of good programming practices and databases. My ultimate goal is to secure a position as a backend developer, which would offer a great opportunity for me to fully immerse myself in the world of software engineering and continue my learning journey.
+
+### Technologies I'm Familiar With
+
+- Python
+- Django
+- DRF
+- Flask
+- HTML/CSS
+- JavaScript
+- SQL
+- Git
+- Docker
 
 
-📫 How to reach me? You can email me on adres: jagabla8@gmail.com
-📫 Or on my LinkedIn profile: https://www.linkedin.com/in/jagoda-b%C5%82aszkiewicz-630b48194/
+Feel free to reach out to me via email at jagabla8@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/jagoda-b%C5%82aszkiewicz-630b48194/.
+
+I'm always open to collaboration, discussions, and any inquiries you may have.
+
+Thank you for visiting my profile, and I look forward to connecting with you!
 
 <!---
 Jaga-bla/Jaga-bla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
