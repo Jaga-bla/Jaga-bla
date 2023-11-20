@@ -30,8 +30,3 @@ Feel free to connect with me!
 Check out some of my notable projects and contributions:
 
 - [Project Veritas RP](https://veritas-rp.pl/) as a lead backend engineer
-
-
-## 📊 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaga-bla&show_icons=true&hide_title=true&hide_border=true)
