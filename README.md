@@ -1,30 +1,37 @@
-## Hi, I'm Jagoda! 👋
+# Hi there! 👋
 
-Welcome to my GitHub profile! I'm passionate about genetics, bioinformatics, and web development. As a novice web developer, I'm eager to expand my knowledge and skills in these fields. Over the past year, I've been dedicated to learning Python programming, which serves as a solid foundation for both bioinformatics and web development.
+I'm Jagoda, a bioinformatician with a passion for learning and exploring new technologies. 
 
-To further enhance my expertise, I've recently embarked on postgraduate studies. These studies have not only systematized my knowledge but also provided me with a deeper understanding of good programming practices and databases. My ultimate goal is to secure a position as a backend developer, which would offer a great opportunity for me to fully immerse myself in the world of software engineering and continue my learning journey.
+## 🔧 Technologies & Tools
 
-### Technologies I'm Familiar With
+[![Python](https://img.shields.io/badge/Python-blue?logo=python)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/Django-blue?logo=django)](https://www.djangoproject.com/)
+[![Databases](https://img.shields.io/badge/Databases-SQL-green)](https://www.w3schools.com/sql/)
+[![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)](https://www.docker.com/)
+[![Flask](https://img.shields.io/badge/Flask-black?logo=flask)](https://flask.palletsprojects.com/)
+[![Git](https://img.shields.io/badge/Git-orange?logo=git)](https://git-scm.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![CSS](https://img.shields.io/badge/CSS-blueviolet?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-- Python
-- Django
-- DRF
-- Flask
-- HTML/CSS
-- JavaScript
-- SQL
-- Git
-- Docker
+## 🌱 Current Focus
+
+I am currently working as a bioinformatician and am actively learning machine learning technologies to enhance my skill set.
+
+## 📬 Contact
+
+Feel free to connect with me!
+
+- **Email:** [jagabla8@gmail.com](mailto:jagabla8@gmail.com)
+- **LinkedIn:** [Jagoda Błaszkiewicz](https://pl.linkedin.com/in/jagoda-b%C5%82aszkiewicz-630b48194)
+- **GitHub:** [Jaga-bla](https://github.com/jaga-bla)
+
+## 📝 Projects & Contributions
+
+Check out some of my notable projects and contributions:
+
+- [Project Veritas RP](https://veritas-rp.pl/) as a lead backend engineer
 
 
-Feel free to reach out to me via email at jagabla8@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/jagoda-b%C5%82aszkiewicz-630b48194/.
+## 📊 GitHub Stats
 
-I'm always open to collaboration, discussions, and any inquiries you may have.
-
-Thank you for visiting my profile, and I look forward to connecting with you!
-
-<!---
-Jaga-bla/Jaga-bla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaga-bla&show_icons=true&hide_title=true&hide_border=true)
