@@ -15,7 +15,7 @@ I'm Jagoda, a bioinformatician with a passion for learning and exploring new tec
 
 ## 🌱 Current Focus
 
-I am currently working as a bioinformatician and am actively learning machine learning technologies to enhance my skill set.
+I am currently working as a bioinformatician, and I am actively learning machine learning technologies to enhance my skill set.
 
 ## 📬 Contact
 
