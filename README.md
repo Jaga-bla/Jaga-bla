@@ -29,4 +29,4 @@ Feel free to connect with me!
 
 Check out some of my notable projects and contributions:
 
-- [Project Veritas RP](https://veritas-rp.pl/) as a lead backend engineer
+- [Project Veritas RP](https://veritas-rp.pl/) as a lead backend python developer
